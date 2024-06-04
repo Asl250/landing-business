@@ -48,7 +48,7 @@ function Home() {
 						</Button>
 					
 					</div>
-					<Image src={"/banner.PNG"} alt={"banner"} width={400} height={0}
+					<Image src={"/banner.PNG"} alt={"banner"} width={400} height={100}
 					       className={"lg:mt-[-290px] max-lg:mx-auto max-lg:mt-[-230px] md:w-[450px] max-lg:w-[500px] "} />
 					<Button
 						className={"mt-3 hidden max-lg:flex mx-auto md:px-20 py-10 px-[20%] max-sm:px-[15%] rounded-3xl bg-gradient-to-r from-green-400 to-green-500"}>
